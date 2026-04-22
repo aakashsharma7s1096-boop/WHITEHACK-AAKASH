@@ -70,7 +70,7 @@ hacker = {
 🔧 Built with: Python | AI/ML | Security Libraries
 ```
 
-[![AI Pentest Tool](1ec77460-41bc-48c4-a5e6-577c74a114b9.jpg)lluLg9nj🔐_View_Project-AI_Pentesting_Tool-00FF41?style=for-the-badge)](https://github.com/aakashsharma7s1096-boop/WHITEHACK_AAKASH
+[![AI Pentest Tool]((https://share.zight.com/lluLg9nj))lluLg9nj🔐_View_Project-AI_Pentesting_Tool-00FF41?style=for-the-badge)](https://github.com/aakashsharma7s1096-boop/WHITEHACK_AAKASH
 
 ---
 
