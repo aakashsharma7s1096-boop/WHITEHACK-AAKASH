@@ -57,7 +57,8 @@ hacker = {
 
 ## 🚀 Featured Project
 
-### 🤖 AI Pentesting Tool
+### 🤖 AI Pentesting Tool 
+
 > *Automating the art of ethical hacking with Artificial Intelligence*
 
 ```
@@ -70,7 +71,8 @@ hacker = {
 🔧 Built with: Python | AI/ML | Security Libraries
 ```
 
-[![AI Pentest Tool]((https://share.zight.com/lluLg9nj))lluLg9nj🔐_View_Project-AI_Pentesting_Tool-00FF41?style=for-the-badge)](https://github.com/aakashsharma7s1096-boop/WHITEHACK_AAKASH
+[![AI Pentest Tool]🔐_<img width="762" height="407" alt="image" src="https://github.com/user-attachments/assets/b12fddd5-a0d4-436a-978f-1a921f3de58d" />
+)](https://github.com/aakashsharma7s1096-boop/WHITEHACK_AAKASH
 
 ---
 
